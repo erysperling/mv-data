@@ -5,12 +5,18 @@
 			"card": [
 				{
 					"image": "https://cdn.rawgit.com/erysperling/mv-data/5cf276188c49e9756420dee0e1f792e07f9dd14d/images/westworld.jpg",
-					"tag": []
+					"tag": [
+						"#Western",
+						"#Science-Fiction",
+						"#Drame"
+					],
+					"card-title": "Westworld",
+					"card-description": "A Westworld, un parc d'attractions dernier cri, les visiteurs paient des fortunes pour revivre le frisson de la conquête de l'Ouest. Dolores, Teddy et bien d'autres sont des androïdes à apparence humaine créés pour donner l'illusion et offrir du dépaysement aux clients. Pour ces derniers, Westworld est l'occasion de laisser libre-cours à leurs fantasmes. Cet univers bien huilé est mis en péril lorsqu'à la suite d'une mise à jour, quelques robots comment à adopter des comportements imprévisibles, voire erratiques. En coulisses, l'équipe, qui tire les ficelles de ce monde alternatif, s'inquiète de ces incidents de plus en plus nombreux. Les enjeux du programme Westworld étant énormes, la Direction ne peut se permettre une mauvaise publicité qui ferait fuir ses clients. Que se passe-t-il réellement avec les androïdes ré-encodés ?"
 				},
 				{
 					"image": "https://cdn.rawgit.com/erysperling/mv-data/531aebeb645779ca69fb0c8eb39144430ff7892e/images/Black-Mirror.jpg",
 					"card-title": "title",
-					"card-description": "description",
+					"card-description": "Description",
 					"tag": [
 						"Action"
 					]
