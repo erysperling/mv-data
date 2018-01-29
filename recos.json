@@ -4,11 +4,11 @@
 			"cat-title": "Séries",
 			"card": [
 				{
-					"image": "https://cdn.rawgit.com/erysperling/mv-data/1c8141c4301e22b2b672ae282019800f1c082e8d/images/punisher.jpg",
+					"image": "https://cdn.rawgit.com/erysperling/mv-data/5cf276188c49e9756420dee0e1f792e07f9dd14d/images/westworld.jpg",
 					"tag": []
 				},
 				{
-					"image": "img/westworld.jpg",
+					"image": "https://cdn.rawgit.com/erysperling/mv-data/531aebeb645779ca69fb0c8eb39144430ff7892e/images/Black-Mirror.jpg",
 					"card-title": "title",
 					"card-description": "description",
 					"tag": [
@@ -16,16 +16,17 @@
 					]
 				},
 				{
-					"image": "https://cdn.rawgit.com/erysperling/mv-data/9fba834b4d22f2e9be80c66fb97a6a3c8f95994e/images/Black-Mirror.jpg",
+					"image": "https://cdn.rawgit.com/erysperling/mv-data/d3fc5ea2863dde9fe0228c1a7670f75b0fbb5fad/images/3%20pour%20cent.jpg",
 					"tag": []
 				}
 			]
 		},
 		{
-			"cat-title": "Filmes",
+			"cat-title": "Films",
 			"card": [
 				{
-					"tag": []
+					"tag": [],
+					"image": "https://cdn.rawgit.com/erysperling/mv-data/3012b5da29bf6c201d0931d4fbde4e0330a4ca5f/images/la-vie-est-belle.jpg"
 				}
 			]
 		}
