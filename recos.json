@@ -11,19 +11,27 @@
 						"#Drame"
 					],
 					"card-title": "Westworld",
-					"card-description": "A Westworld, un parc d'attractions dernier cri, les visiteurs paient des fortunes pour revivre le frisson de la conquête de l'Ouest. Dolores, Teddy et bien d'autres sont des androïdes à apparence humaine créés pour donner l'illusion et offrir du dépaysement aux clients. Pour ces derniers, Westworld est l'occasion de laisser libre-cours à leurs fantasmes. Cet univers bien huilé est mis en péril lorsqu'à la suite d'une mise à jour, quelques robots comment à adopter des comportements imprévisibles, voire erratiques. En coulisses, l'équipe, qui tire les ficelles de ce monde alternatif, s'inquiète de ces incidents de plus en plus nombreux. Les enjeux du programme Westworld étant énormes, la Direction ne peut se permettre une mauvaise publicité qui ferait fuir ses clients. Que se passe-t-il réellement avec les androïdes ré-encodés ?"
+					"card-description": "A Westworld, un parc d'attractions dernier cri, les visiteurs paient des fortunes pour revivre le frisson de la conquête de l'Ouest. Dolores, Teddy et bien d'autres sont des androïdes à apparence humaine créés pour donner l'illusion et offrir du dépaysement aux clients. Pour ces derniers, Westworld est l'occasion de laisser libre-cours à leurs fantasmes. Cet univers bien huilé est mis en péril lorsqu'à la suite d'une mise à jour, quelques robots comment à adopter des comportements imprévisibles, voire erratiques. En coulisses, l'équipe, qui tire les ficelles de ce monde alternatif, s'inquiète de ces incidents de plus en plus nombreux. Les enjeux du programme Westworld étant énormes, la Direction ne peut se permettre une mauvaise publicité qui ferait fuir ses clients. Que se passe-t-il réellement avec les androïdes ré-encodés ?\nWestworld est une série télévisée américaine de science-fiction créée par Jonathan Nolan et Lisa Joy, et notamment produite par J. J. Abrams et Bryan Burk, et diffusée depuis le 2 octobre 2016 sur HBO. C'est l'adaptation télévisée du film Mondwest (Westworld) écrit et réalisé par Michael Crichton en 1973."
 				},
 				{
 					"image": "https://cdn.rawgit.com/erysperling/mv-data/531aebeb645779ca69fb0c8eb39144430ff7892e/images/Black-Mirror.jpg",
-					"card-title": "title",
-					"card-description": "Description",
+					"card-title": "Black mirror",
+					"card-description": "D'après Charlie Brooker, chaque épisode a un casting, un décor et une réalité différente, mais ils traitent de la façon dont nous vivons maintenant et de la façon dont nous pourrions vivre dans dix minutes si nous commettions une erreur.\nBlack Mirror, qui signifie « Miroir noir », est une anthologie télévisée britannique, créée par Charlie Brooker. D'abord diffusée sur Channel 4 de 2011 à 2014, elle a connu un succès international et sa troisième saison est produite par Netflix en 2016.\n\nLes épisodes sont liés par le thème commun de la mise en œuvre d'une technologie dystopique, le « Black Mirror » du titre faisant référence aux écrans omniprésents qui nous renvoient notre reflet. Sous un angle noir et souvent satirique, la série envisage un futur proche, voire immédiat. Elle interroge les conséquences inattendues que pourraient avoir les nouvelles technologies, et comment ces dernières influent sur la nature humaine de ses utilisateurs et inversement...",
 					"tag": [
-						"Action"
+						"#Science-Fiction",
+						"#Drame",
+						"#Horreur"
 					]
 				},
 				{
 					"image": "https://cdn.rawgit.com/erysperling/mv-data/d3fc5ea2863dde9fe0228c1a7670f75b0fbb5fad/images/3%20pour%20cent.jpg",
-					"tag": []
+					"tag": [
+						"#Science-Fiction",
+						"#Drame",
+						"#Action"
+					],
+					"card-title": "3%",
+					"card-description": "3% nous plonge dans une société dystopique divisée en deux : d’un côté les riches (3% de la population) et de l’autre les pauvres. Pour pouvoir accéder à la plus haute strate, les participants n’auront le droit qu’à une seule chance et se départageront autour d’épreuves. Mais seulement 3% d’entre eux arrivera au bout…\n3% est une série télévisée brésilienne en huit épisodes de 45 minutes créée par Pedro Aguilera et diffusée depuis le 25 novembre 2016 sur le réseau Netflix.\n\nElle est développée à partir d’un épisode pilote en 2009, et s’agit de la première production originale de Netflix au Brésil, ainsi que de la seconde production en Amérique du Sud, après Club de Cuervos.\n\nLe scénario est défini dans un futur où les gens peuvent passer un test qui pourrait leur permettre de vivre dans un monde appelé la Haute Mer (Maralto). Ce monde se définit comme un paradis, loin de la pauvreté et de la misère qui gagne le Continent. Mais seulement 3 % des candidats seront retenus1. Netflix a dévoilé la première saison, qui est composée de huit épisodes2,3. La première saison est devenue disponible sur Netflix dans le monde entier le 25 novembre 2016."
 				}
 			]
 		},
